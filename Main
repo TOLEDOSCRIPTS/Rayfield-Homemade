@@ -512,7 +512,7 @@ local RayfieldLibrary = {
 		},
 
 		Aqua = {
-			TextColor = Color3.fromRGB(127, 255, 212),
+			TextColor = Color3.fromRGB(240, 240, 240),
 
 			Background = Color3.fromRGB(130, 255, 220),
 			Topbar = Color3.fromRGB(130, 255, 217),
@@ -524,8 +524,8 @@ local RayfieldLibrary = {
 			TabBackground = Color3.fromRGB(130, 255, 220),
 			TabStroke = Color3.fromRGB(130, 255, 220),
 			TabBackgroundSelected = Color3.fromRGB(255, 225, 235),
-			TabTextColor = Color3.fromRGB(80, 40, 60),
-			SelectedTabTextColor = Color3.fromRGB(50, 30, 50),
+			TabTextColor = Color3.fromRGB(240, 240, 240),
+			SelectedTabTextColor = Color3.fromRGB(240, 240, 240),
 
 			ElementBackground = Color3.fromRGB(130, 255, 220),
 			ElementBackgroundHover = Color3.fromRGB(130, 255, 220),
